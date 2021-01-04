@@ -1,1 +1,4 @@
-from covid import covid
+from covid import Covid
+
+covid = Covid()
+covid.get_data()
